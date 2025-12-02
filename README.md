@@ -3,10 +3,11 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Front-End Web App</b>
-  - [Blognista](https://pomzzytrustdev.github.io/blognista/)
-  - [Danis Eatery](https://pomzzytrustdev.github.io/Danis-Eatery/)
   - [Calculator App](https://pomzzytrustdev.github.io/Calculator-App/)
   - [Counter App](https://pomzzytrustdev.github.io/SimpleCounter/)
+  - [Blognista](https://pomzzytrustdev.github.io/blognista/)
+  - [Danis Eatery](https://pomzzytrustdev.github.io/Danis-Eatery/)
+  
 
 <h2> 🤳 Connect with me:</h2>
 
