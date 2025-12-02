@@ -3,6 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Front-End Web App</b>
+
   - [Calculator App](https://pomzzytrustdev.github.io/Calculator-App/)
   - [Counter App](https://pomzzytrustdev.github.io/SimpleCounter/)
   - [Blognista](https://pomzzytrustdev.github.io/blognista/)
