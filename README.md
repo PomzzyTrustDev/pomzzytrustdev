@@ -5,7 +5,7 @@
 - <b>Front-End Web App</b>
   - [Blognista](https://pomzzytrustdev.github.io/blognista/)
   - [Danis Eatery](https://pomzzytrustdev.github.io/Danis-Eatery/)
-  - [Calculator App](https://teeblex.github.io/calculatorApp/)
+  - [Calculator App](https://pomzzytrustdev.github.io/Calculator-App/)
   - [Counter App](https://pomzzytrustdev.github.io/SimpleCounter/)
 
 <h2> 🤳 Connect with me:</h2>
