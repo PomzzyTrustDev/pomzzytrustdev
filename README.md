@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yunus Quadri! <br/><a href="https://github.com/teeblex">Front-End Web Programmer</a>
+<h1>Hi, I'm Yunus Quadri<br/><a href="https://github.com/teeblex">Front-End Web Programmer</a>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
