@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Front-End Web App</b>
-  - [Blognista](https://teeblex.github.io/blognista/)
+  - [Blognista](https://pomzzytrustdev.github.io/blognista/)
   - [Danis Eatery](https://teeblex.github.io/danisEatery/)
   - [Calculator App](https://teeblex.github.io/calculatorApp/)
   - [Counter App](https://teeblex.github.io/counterApp/)
@@ -19,3 +19,6 @@
 [facebook]: https://web.facebook.com/pomzzy
 [instagram]: https://www.instagram.com/pomzzy/
 [linkedin]: https://linkedin.com/in/pomzzy
+
+
+https://github.com/PomzzyTrustDev/blognista
