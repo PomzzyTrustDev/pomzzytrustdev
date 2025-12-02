@@ -4,7 +4,7 @@
 
 - <b>Front-End Web App</b>
   - [Blognista](https://pomzzytrustdev.github.io/blognista/)
-  - [Danis Eatery](https://teeblex.github.io/danisEatery/)
+  - [Danis Eatery](https://pomzzytrustdev.github.io/Danis-Eatery/)
   - [Calculator App](https://teeblex.github.io/calculatorApp/)
   - [Counter App](https://pomzzytrustdev.github.io/SimpleCounter/)
 
@@ -21,4 +21,3 @@
 [linkedin]: https://linkedin.com/in/pomzzy
 
 
-https://github.com/PomzzyTrustDev/blognista
