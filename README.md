@@ -6,7 +6,7 @@
   - [Blognista](https://pomzzytrustdev.github.io/blognista/)
   - [Danis Eatery](https://teeblex.github.io/danisEatery/)
   - [Calculator App](https://teeblex.github.io/calculatorApp/)
-  - [Counter App](https://teeblex.github.io/counterApp/)
+  - [Counter App](https://pomzzytrustdev.github.io/counterApp/)
 
 <h2> 🤳 Connect with me:</h2>
 
